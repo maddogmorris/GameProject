@@ -1,0 +1,13 @@
+\\h0436sfs02\home$\students\4653374686\my documents\visual studio 2010\Projects\GAME\GAME\obj\x86\Debug\GAME.Form2.resources
+\\h0436sfs02\home$\students\4653374686\my documents\visual studio 2010\Projects\GAME\GAME\obj\x86\Debug\GAME.Properties.Resources.resources
+\\h0436sfs02\home$\students\4653374686\my documents\visual studio 2010\Projects\GAME\GAME\obj\x86\Debug\GAME.csproj.GenerateResource.Cache
+\\h0436sfs02\home$\students\4653374686\my documents\visual studio 2010\Projects\GAME\GAME\obj\x86\Debug\GAME.Form1.resources
+\\h0436sfs02\home$\students\4653374686\my documents\visual studio 2010\Projects\GAME\GAME\bin\Debug\GAME.exe
+\\h0436sfs02\home$\students\4653374686\my documents\visual studio 2010\Projects\GAME\GAME\bin\Debug\GAME.pdb
+\\h0436sfs02\home$\students\4653374686\my documents\visual studio 2010\Projects\GAME\GAME\obj\x86\Debug\GAME.exe
+\\h0436sfs02\home$\students\4653374686\my documents\visual studio 2010\Projects\GAME\GAME\obj\x86\Debug\GAME.pdb
+\\h0436sfs02\home$\students\4653374686\my documents\visual studio 2010\Projects\GAME\GAME\obj\x86\Debug\GAME.Form3.resources
+\\h0436sfs02\home$\students\4653374686\my documents\visual studio 2010\Projects\GAME\GAME\obj\x86\Debug\GAME.Form4.resources
+\\H0436SFS02\Home$\Students\4653374686\My Documents\Visual Studio 2010\Projects\GAME\GAME\obj\x86\Debug\GAME.csprojResolveAssemblyReference.cache
+E:\GAME\GAME\obj\x86\Debug\GAME.exe
+E:\GAME\GAME\obj\x86\Debug\GAME.pdb
